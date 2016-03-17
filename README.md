@@ -4,6 +4,8 @@
 Este projeto mostra a utilização do fluxo de autorização authorization code em uma aplicação PHP.
 A aplicação possui as funcionalidade básicas de (Autenticar via OAuth e consumir um serviço), mostrando de forma simples como pode ser obtido os dados da API que utilizam o fluxo de autorização authorization code.
 
+Neste projeto usamos o "Light PHP wrapper for the OAuth 2.0" disponível em https://github.com/adoy/PHP-OAuth2
+
 ## Créditos
 SINFO - Superintendência de Informática da UFRN
 
